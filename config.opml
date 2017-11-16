@@ -1,62 +1,138 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 <body>
-<outline title="Linux Action Show" img="http://www.jupiterbroadcasting.com/images/LASBadge-HD144.jpg" url="http://feeds.feedburner.com/linuxashd"
-	hqfeed="http://feeds.feedburner.com/linuxashd"
-	lqfeed="http://feeds.feedburner.com/linuxactionshowipodvid"
+<outline title="Ask Noah"
+	img="http://roku.jupitercolony.com/ask-noah.jpg"
+	url="http://feedpress.me/AskNoahHD"
+	hqfeed="http://feedpress.me/AskNoahHD"
+	lqfeed="http://feedpress.me/AskNoahHD"
+
 />
-<outline title="LINUX Unplugged" img="http://roku.jupitercolony.com/LINUX-Unplugged.jpg" url="http://feeds.feedburner.com/linuxunvid"
-	hqfeed="http://feeds.feedburner.com/linuxunvid"
-	lqfeed="http://feeds.feedburner.com/linuxunvid"
+<outline title="BSDNow"
+	img="http://roku.jupitercolony.com/BSDNow.jpg"
+	url="http://feeds.feedburner.com/BsdNowHd"
+	hqfeed="http://feeds.feedburner.com/BsdNowHd"
+	lqfeed="http://feeds.feedburner.com/BsdNowMobile"
 />
-<outline title="TechSNAP" img="http://www.jupiterbroadcasting.com/images/techsnap/techsnapHD.jpg" url="http://feeds.feedburner.com/techsnaphd"
-	hqfeed="http://feeds.feedburner.com/techsnaphd"
-	lqfeed="http://feeds.feedburner.com/techsnapmobile"
-/>
-<outline title="Faux Show" img="http://a.images.blip.tv/FauxShow-300x300_show_image205.png" url="http://blip.tv/fauxshow/rss/itunes"
-	hqfeed="http://www.jupiterbroadcasting.com/feeds/FauxShowHD.xml"
-	lqfeed="http://www.jupiterbroadcasting.com/feeds/FauxShowMobile.xml"
-/>
-<outline title="Coder Radio" img="http://www.jupiterbroadcasting.com/images/CR-rssBadge144.jpg" url="http://feeds.feedburner.com/coderradiovideo"
+<outline title="Coder Radio"
+	img="http://www.jupiterbroadcasting.com/images/CR-rssBadge144.jpg"
+	url="http://feeds.feedburner.com/coderradiovideo"
 	hqfeed="http://feeds.feedburner.com/coderradiovideo"
 	lqfeed="http://feeds.feedburner.com/coderradiovideo"
 />
-<outline title="Unfilter" img="http://www.jupiterbroadcasting.com/images/itunes-badge144.jpg" url="http://www.jupiterbroadcasting.com/feeds/unfilterHD.xml"
+<outline title="Linux Action News"
+	img="http://roku.jupitercolony.com/linux-action-news.jpg"
+	url="http://feedpress.me/lanvideo.xml"
+	hqfeed="http://feedpress.me/lanvideo.xml"
+	lqfeed="http://feedpress.me/lanvideo.xml"
+/>
+<outline title="LINUX Unplugged"
+	img="http://roku.jupitercolony.com/LINUX-Unplugged.jpg"
+	url="http://feeds.feedburner.com/linuxunvid"
+	hqfeed="http://feeds.feedburner.com/linuxunvid"
+	lqfeed="http://feeds.feedburner.com/linuxunvid"
+/>
+<outline title="TechSNAP"
+	img="http://roku.jupitercolony.com/techsnap.jpg"
+	url="http://feeds.feedburner.com/techsnaphd"
+	hqfeed="http://feeds.feedburner.com/techsnaphd"
+	lqfeed="http://feeds.feedburner.com/techsnapmobile"
+/>
+<outline title="Unfilter"
+	img="http://www.jupiterbroadcasting.com/images/itunes-badge144.jpg"
+	url="http://www.jupiterbroadcasting.com/feeds/unfilterHD.xml"
 	hqfeed="http://www.jupiterbroadcasting.com/feeds/unfilterHD.xml"
 	lqfeed="http://www.jupiterbroadcasting.com/feeds/unfilterMob.xml"
 />
-<outline title="Plan B" img="http://roku.jupitercolony.com/PlanB.png" url="http://feeds.feedburner.com/PlanBVideo"
-	hqfeed="http://feeds.feedburner.com/PlanBVideo"
-	lqfeed="http://feeds.feedburner.com/PlanBVideo"
-/>
-<outline title="SciByte" img="http://www.jupiterbroadcasting.com/images/SciByteBadgeHD144.jpg" url="http://feeds.feedburner.com/scibytehd?format=xml"
-	hqfeed="http://feeds.feedburner.com/scibytehd"
-	lqfeed="http://feeds.feedburner.com/scibytemobile"
+<outline title="User Error"
+	img="http://roku.jupitercolony.com/user-error.jpg"
+	url="http://feedpress.me/uevideo.xml"
+	hqfeed="http://feedpress.me/uevideo.xml"
+	lqfeed="http://feedpress.me/uevideo.xml"
 />
 <outline title="JB Archive" img="http://www.jupiterbroadcasting.com/images/jbsmall.gif">
-	<outline title="LAS Old Feed" subtitle="Old LAS and CAS episodes" img="http://www.jupiterbroadcasting.com/images/LAS-VIDEO144.jpg" url="http://feeds.feedburner.com/computeractionshowvideo" />
-	<outline title="TORked" img="http://www.jupiterbroadcasting.com/images/TORked-Badge-HD.jpg" url="http://feeds.feedburner.com/TorkedHd"
+	<outline title="Linux Action Show"
+		img="http://roku.jupitercolony.com/LAS.png"
+		url="http://feeds.feedburner.com/linuxashd"
+		hqfeed="http://feeds.feedburner.com/linuxashd"
+		lqfeed="http://feeds.feedburner.com/linuxactionshowipodvid"
+	/>
+	<outline title="LAS Old Feed"
+		img="http://www.jupiterbroadcasting.com/images/LAS-VIDEO144.jpg"
+		url="http://feeds.feedburner.com/computeractionshowvideo"
+		subtitle="Old LAS and CAS episodes"
+	/>
+	<outline title="SciByte"
+		img="http://www.jupiterbroadcasting.com/images/SciByteBadgeHD144.jpg"
+		url="http://feeds.feedburner.com/scibytehd?format=xml"
+		hqfeed="http://feeds.feedburner.com/scibytehd"
+		lqfeed="http://feeds.feedburner.com/scibytemobile"
+	/>
+	<outline title="Faux Show"
+		img="http://a.images.blip.tv/FauxShow-300x300_show_image205.png"
+		url="http://blip.tv/fauxshow/rss/itunes"
+		hqfeed="http://www.jupiterbroadcasting.com/feeds/FauxShowHD.xml"
+		lqfeed="http://www.jupiterbroadcasting.com/feeds/FauxShowMobile.xml"
+	/>
+	<outline title="Tech Talk Today"
+		img="http://roku.jupitercolony.com/T3.png"
+		url="http://feedpress.me/t3hd.xml"
+		hqfeed="http://feedpress.me/t3hd.xml"
+		lqfeed="http://feedpress.me/t3mob.xml"
+	/>
+	<outline title="Women's Tech Radio"
+		img="http://roku.jupitercolony.com/WTR.png"
+		url="http://feeds.feedburner.com/wtrhd"
+		hqfeed="http://feeds.feedburner.com/wtrhd"
+		lqfeed="http://feeds.feedburner.com/wtrmobile"
+	/>
+	<outline title="HowTo Linux"
+		img="http://roku.jupitercolony.com/h2l.jpg"
+		url="http://feeds.feedburner.com/HowtoLinuxHd"
+	/>
+	<outline title="Plan B"
+		img="http://roku.jupitercolony.com/PlanB.png"
+		url="http://feeds.feedburner.com/PlanBVideo"
+	/>
+	<outline title="TORked"
+		img="http://www.jupiterbroadcasting.com/images/TORked-Badge-HD.jpg"
+		url="http://feeds.feedburner.com/TorkedHd"
 		hqfeed="http://feeds.feedburner.com/TorkedHd"
 		lqfeed="http://feeds.feedburner.com/TorkedMobile"
 	/>
-	<outline title="In Depth Look" img="http://www.jupiterbroadcasting.com/images/InDepthLook_HD.jpg" url="http://www.jupiterbroadcasting.com/feeds/indepthlookihd.xml"
+	<outline title="In Depth Look"
+		img="http://www.jupiterbroadcasting.com/images/InDepthLook_HD.jpg"
+		url="http://www.jupiterbroadcasting.com/feeds/indepthlookihd.xml"
 		hqfeed="http://www.jupiterbroadcasting.com/feeds/indepthlookihd.xml"
 		lqfeed="http://www.jupiterbroadcasting.com/feeds/indepthlookmob.xml"
 	/>
-	<outline title="STOked" img="http://www.jupiterbroadcasting.com/images/STOked-BadgeHD.png" url="http://feeds.feedburner.com/stokedhd"
+	<outline title="STOked"
+		img="http://www.jupiterbroadcasting.com/images/STOked-BadgeHD.png"
+		url="http://feeds.feedburner.com/stokedhd"
 		hqfeed="http://feeds.feedburner.com/stokedhd"
 		lqfeed="http://feeds.feedburner.com/stokedipod"
 	/>
-	<outline title="LOTSO" subtitle="Legend of the Stoned Owl" img="http://www.jupiterbroadcasting.com/images/jbsmall.gif" url="http://www.jupiterbroadcasting.com/show/legend-of-the-stoned-owl/feed/" />
-	<outline title="MMOrgue" img="http://www.jupiterbroadcasting.com/images/jbsmall.gif" url="http://www.jupiterbroadcasting.com/show/mmorgue/feed/"
+	<outline title="LOTSO"
+		img="http://www.jupiterbroadcasting.com/images/jbsmall.gif"
+		url="http://www.jupiterbroadcasting.com/show/legend-of-the-stoned-owl/feed/"
+		subtitle="Legend of the Stoned Owl"
+	/>
+	<outline title="MMOrgue"
+		img="http://www.jupiterbroadcasting.com/images/jbsmall.gif"
+		url="http://www.jupiterbroadcasting.com/show/mmorgue/feed/"
 		hqfeed="http://feeds.feedburner.com/MMOrgueHd"
 		lqfeed="http://feeds.feedburner.com/MMOrgueMobile"
 	/>
-	<outline title="Beer Is Tasty" img="http://www.jupiterbroadcasting.com/images/jbsmall.gif" url="http://www.jupiterbroadcasting.com/show/beeristasty/feed/"
+	<outline title="Beer Is Tasty"
+		img="http://www.jupiterbroadcasting.com/images/jbsmall.gif"
+		url="http://www.jupiterbroadcasting.com/show/beeristasty/feed/"
 		hqfeed="http://feeds2.feedburner.com/jupiterbeeristasty-hd"
 		lqfeed="http://feeds2.feedburner.com/BeerIsTasty"
 	/>
-	<outline title="Jupiter@Nite" img="http://www.jupiterbroadcasting.com/images/jbsmall.gif" url="http://www.jupiterbroadcasting.com/show/nite/feed/" />
+	<outline title="Jupiter@Nite"
+		img="http://www.jupiterbroadcasting.com/images/jbsmall.gif"
+		url="http://www.jupiterbroadcasting.com/show/nite/feed/"
+	/>
 </outline>
 </body>
 </opml>
